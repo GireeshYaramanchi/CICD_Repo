@@ -1,0 +1,10 @@
+10/6/2022 1:07:03 AM	This log contains information about the import schema operation into project 'CICDDatabase' on computer 'DESKTOP-ETJ4TOC' by user 'Administrator'.
+10/6/2022 1:07:04 AM	Deserializing model
+10/6/2022 1:07:04 AM	Resolving model
+10/6/2022 1:07:04 AM	Visiting imported model for types
+10/6/2022 1:07:04 AM	Scanning project for duplicate elements
+10/6/2022 1:07:04 AM	Finished duplicate element processing
+10/6/2022 1:07:04 AM	Processing extra files
+10/6/2022 1:07:04 AM	Finished importing Data-tier Application file.
+10/6/2022 1:07:04 AM	A summary of the import was saved to the following location: C:\CICD_Database\CICDDatabase\CICDDatabase\Import Schema Logs\CICDDatabase_20221006050703.log
+10/6/2022 1:07:04 AM	Click Finish to continue...

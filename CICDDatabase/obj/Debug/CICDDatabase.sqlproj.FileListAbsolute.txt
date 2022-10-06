@@ -1,0 +1,10 @@
+C:\CICD_Database\CICDDatabase\CICDDatabase\bin\Debug\CICDDatabase.dacpac
+C:\CICD_Database\CICDDatabase\CICDDatabase\bin\Debug\CICDDatabase.dll
+C:\CICD_Database\CICDDatabase\CICDDatabase\bin\Debug\CICDDatabase.pdb
+C:\CICD_Database\CICDDatabase\CICDDatabase\obj\Debug\CICDDatabase.sqlproj.AssemblyReference.cache
+C:\CICD_Database\CICDDatabase\CICDDatabase\obj\Debug\Model.xml
+C:\CICD_Database\CICDDatabase\CICDDatabase\obj\Debug\refactor.xml
+C:\CICD_Database\CICDDatabase\CICDDatabase\obj\Debug\postdeploy.sql
+C:\CICD_Database\CICDDatabase\CICDDatabase\obj\Debug\predeploy.sql
+C:\CICD_Database\CICDDatabase\CICDDatabase\obj\Debug\CICDDatabase.dll
+C:\CICD_Database\CICDDatabase\CICDDatabase\obj\Debug\CICDDatabase.pdb
