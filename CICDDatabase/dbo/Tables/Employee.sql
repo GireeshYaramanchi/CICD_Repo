@@ -6,5 +6,6 @@
     EMail nvarchar(50),
     Phone varchar(15),
     HireDate date,
-    Salary Money
+    Salary Money, 
+    [ZipCode] VARCHAR(50) NULL
 );
