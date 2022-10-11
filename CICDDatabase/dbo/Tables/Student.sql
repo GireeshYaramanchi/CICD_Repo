@@ -4,6 +4,7 @@
     [FirstName] VARCHAR (255) NULL,
     [Address]   VARCHAR (255) NULL,
     [City]      VARCHAR (255) NULL, 
-    [Zipcode] VARCHAR(MAX) NULL
+    [Zipcode] VARCHAR(MAX) NULL, 
+    [State] VARCHAR(100) NULL
 );
 
